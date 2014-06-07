@@ -1,5 +1,3 @@
-Srayan Guhathakurta
-
 Instructions for librarians (users)
 
 This library management application, known,as Book Wormis a web 
