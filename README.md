@@ -69,3 +69,16 @@ Add a new member
 Check History
 Check finesand dues
 About mesection (also accessible through the portal) 
+
+
+
+
+
+I have not been able to add two directories:
+_docs
+_images
+
+The _docs directory basically has the manual present in .pdf format.
+The _images has the icon and the images that have been used in the front-end UI design for the project.
+
+Should you need those two files please send in an email request at srayanguhathakurta@yahoo.com
