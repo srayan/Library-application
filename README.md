@@ -1,6 +1,6 @@
 Instructions for librarians (users)
 
-This library management application, known,as Book Wormis a web 
+This library management application, known,as "Book Worm" is a web 
 application,which has been developed using the following technologies:
 
 Front-end: HTML, CSS and jQuery
