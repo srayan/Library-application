@@ -1,6 +1,6 @@
-Srayan&Guhathakurta
+Srayan Guhathakurta
 
-Instructions*for*librarians*(users)*
+Instructions for librarians (users)
 
 This library management application, known,as Book Wormis a web 
 application,which has been developed using the following technologies:
@@ -15,7 +15,7 @@ server helps in hosting the database, the Apache server helps in hosting
 the web service.
 
 
-Design*decisions*and*justifications*
+Design decisions and justifications
 WHY MAKE A WEB-APP
 
 The reason to develop the application on a web platformis to address the 
